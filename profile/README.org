@@ -34,7 +34,7 @@ Foto do LDSC
 
 Foto do LDSC  - Sala de Aula
 #+CAPTION: Foto do LDSC - Sala de Aula
-[[./imagens/Laboratorio-LDSC-1.png]]
+[[./imagens/Laboratorio-LDSC-2-SalaAula.png]]
 
 *** Objetivos do LDSC
 Desenvolver modelos matemáticos, algoritmos e softwares aplicados a engenharia de petróleo.
