@@ -36,6 +36,9 @@ Ambiente com área de 100 m², que abriga até 16 pesquisadores que atuam na ár
 #+CAPTION: Foto Laboratório LDSC
 [[https://raw.githubusercontent.com/ldsc/profile/master/imagens/Laboratorio-LDSC-1.png]]
 
+#+CAPTION: Foto Laboratório LDSC
+[[./imagens/Laboratorio-LDSC-1.png]]
+
 *** Objetivos do LDSC
 Desenvolver modelos matemáticos, algoritmos e softwares aplicados a engenharia de petróleo.
 
