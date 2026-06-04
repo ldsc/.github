@@ -28,15 +28,12 @@
 
 Ambiente com área de 100 m², que abriga até 16 pesquisadores que atuam na área de Modelagem Matemática e Computacional.
 
-![Foto Laboratório LDSC](:imagens/Laboratorio-LDSC-1.png)
+Foto do LDSC
+#+CAPTION: Foto do LDSC
+[[./imagens/Laboratorio-LDSC-1.png]]
 
-#+CAPTION: Foto Laboratório LDSC
-[[https://raw.githubusercontent.com/profile/imagens/Laboratorio-LDSC-1.png]]
-
-#+CAPTION: Foto Laboratório LDSC
-[[https://raw.githubusercontent.com/ldsc/profile/master/imagens/Laboratorio-LDSC-1.png]]
-
-#+CAPTION: Foto Laboratório LDSC
+Foto do LDSC  - Sala de Aula
+#+CAPTION: Foto do LDSC - Sala de Aula
 [[./imagens/Laboratorio-LDSC-1.png]]
 
 *** Objetivos do LDSC
