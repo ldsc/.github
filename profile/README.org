@@ -28,6 +28,8 @@
 
 Ambiente com área de 100 m², que abriga até 16 pesquisadores que atuam na área de Modelagem Matemática e Computacional.
 
+![Foto Laboratório LDSC](:imagens/Laboratorio-LDSC-1.png)
+
 *** Objetivos do LDSC
 Desenvolver modelos matemáticos, algoritmos e softwares aplicados a engenharia de petróleo.
 
